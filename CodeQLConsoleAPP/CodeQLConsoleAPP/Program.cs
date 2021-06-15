@@ -22,7 +22,7 @@ namespace CodeQLConsoleAPP
             try
             {
                 a = a + b;
-                string s = a;
+                
             }
             catch (Exception ex)
             {

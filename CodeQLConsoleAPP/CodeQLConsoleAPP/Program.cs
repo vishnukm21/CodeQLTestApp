@@ -5,6 +5,10 @@ namespace CodeQLConsoleAPP
     class Program
     {
 
+        public static string UserID = "vishnu";
+
+        public static string Password = "Hyderabad";
+
         public static string value = "";
 
         static void Main(string[] args)
